@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/bhatiar1/RahulTestDevOps/_apis/build/status/bhatiar21.devtestado?branchName=master)](https://dev.azure.com/bhatiar1/RahulTestDevOps/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
